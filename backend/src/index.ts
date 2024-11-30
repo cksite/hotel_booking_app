@@ -89,6 +89,6 @@ app.get('*', (req: Request, res: Response) => {
 
 
 app.listen(7000,()=>{
-    console.log("serevr is running on localhost:7000");
+    console.log("server is running on localhost:7000");
 });
 
